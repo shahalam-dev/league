@@ -1,0 +1,87 @@
+.container {
+  width: 80%;
+  margin: 0 auto;
+  color: #ffffff;
+}
+
+.banner {
+  background-image: url(https://secureprintportal.s3.us-west-1.amazonaws.com/production/assets/5966561450122033bd4456f8/imageLocker/blog-description/5f11c366a53d4d3a831471de/blog/sports_banners.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 450px;
+  background-color: #ffffff;
+}
+
+.meta-box {
+  display: flex;
+  padding: 30px;
+  box-sizing: border-box;
+  border-radius: 30px;
+}
+
+.meta-info {
+  width: 50%;
+  margin-left: 30px;
+}
+
+.image-area {
+  width: 50%;
+  border-radius: 50px;
+}
+
+.image-area > img {
+  width: 100%;
+  border-radius: 30px;
+  height: 100%;
+}
+
+.meta-box {
+  background-color: rgb(62 62 255);
+  color: #ffffff;
+  align-items: center;
+  margin-top: 40px;
+}
+
+.row {
+  display: flex;
+}
+.row > img {
+  height: 20px;
+  width: 20px;
+  margin-right: 15px;
+  margin-top: 20px;
+}
+
+.social-link {
+  margin: 30px auto;
+  width: 200px;
+  display: flex;
+  justify-content: center;
+}
+
+.social-link img {
+  width: 50px;
+  height: 50px;
+}
+
+.description {
+  margin-top: 50px;
+  padding: 30px;
+}
+
+@media screen and (max-width: 600px) {
+  .banner {
+    height: 230px;
+  }
+
+  .meta-box {
+    flex-direction: column;
+  }
+  .meta-info {
+    width: 100%;
+  }
+  .image-area {
+    width: 100%;
+  }
+}

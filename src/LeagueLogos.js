@@ -1,0 +1,27 @@
+const logos = [
+  "https://i.pinimg.com/originals/18/9f/15/189f15303714eb351fe37ef5cdd3b177.png",
+  "https://i.pinimg.com/564x/a8/9d/6e/a89d6ecf0c3aa30a2b1003aeed94071a.jpg",
+  "https://i.pinimg.com/564x/b5/a8/57/b5a857b1a0547703aa14941fe3f413f8.jpg",
+  "https://i.pinimg.com/564x/86/16/5c/86165caaa0bf8f0ceb459510601ca879.jpg",
+  "https://i.pinimg.com/564x/b1/fd/21/b1fd21352ad7b8144e4dc655420d8586.jpg",
+  "https://i.pinimg.com/564x/20/36/46/2036466221c4f8bb1f009baf4f2e9ec9.jpg",
+  "https://i.pinimg.com/564x/e9/39/ec/e939ecf3c5620aa079244b5a93907f7f.jpg",
+  "https://i.pinimg.com/564x/63/7a/58/637a583325e9744c2813a82cc4be0159.jpg",
+  "https://i.pinimg.com/564x/2b/52/7d/2b527d10ca9e771b98fadcbe2bc8f20d.jpg",
+  "https://i.pinimg.com/564x/3b/ec/f3/3becf3f60f1f278959db5550c81d804b.jpg",
+  "https://i.pinimg.com/564x/bf/7c/d9/bf7cd9ec419cbbc1b9b2b7117184b56d.jpg",
+  "https://i.pinimg.com/564x/7b/70/e0/7b70e0225865191bfec4917fde8662e5.jpg",
+  "https://i.pinimg.com/564x/b8/b5/fc/b8b5fc4742bd26c24d13f29d311cf4fa.jpg",
+  "https://i.pinimg.com/564x/d1/17/1e/d1171ea25ceebbd5ea4a1f64768b10d5.jpg",
+  "https://i.pinimg.com/564x/d8/8c/1c/d88c1c78023376ef9d85a5978252a0c5.jpg",
+  "https://i.pinimg.com/564x/a6/13/33/a61333c28f8647d6bafa53993861d8a9.jpg",
+  "https://i.pinimg.com/564x/09/ca/1e/09ca1e48441b2444e49e9f09b51c17df.jpg",
+  "https://i.pinimg.com/564x/28/ba/90/28ba9064a74ab3737e5cff0f0810e340.jpg",
+  "https://i.pinimg.com/564x/5d/0f/10/5d0f101d095164ad392c1e78f9eaacdf.jpg",
+  "https://i.pinimg.com/564x/6d/d4/bf/6dd4bff8eab1f52084651761da1365f7.jpg",
+  "https://i.pinimg.com/564x/87/1d/ca/871dca5428b2590c9805993741e455b2.jpg",
+  "https://i.pinimg.com/564x/a3/f0/16/a3f016366aab6203671a665c7cc46730.jpg",
+  "https://i.pinimg.com/564x/9b/ae/ce/9baece8934923e4232f8e5efc2b8fe16.jpg",
+];
+
+export default logos;
